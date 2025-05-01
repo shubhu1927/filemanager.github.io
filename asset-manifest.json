@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shubhu1927/filemanager.github.io/static/css/main.fc5c2c69.css",
+    "main.js": "/shubhu1927/filemanager.github.io/static/js/main.5a35fa33.js",
+    "index.html": "/shubhu1927/filemanager.github.io/index.html",
+    "main.fc5c2c69.css.map": "/shubhu1927/filemanager.github.io/static/css/main.fc5c2c69.css.map",
+    "main.5a35fa33.js.map": "/shubhu1927/filemanager.github.io/static/js/main.5a35fa33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.5a35fa33.js"
+  ]
+}
